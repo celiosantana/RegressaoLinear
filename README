@@ -1,0 +1,9 @@
+This code refers to a prediction model using Linear Regression in Python (sklearn package). 
+
+The problem solved involve a prediciont of how long a shipping will arrive considering how much we pay for that. 
+For example, if we buy a product and pay 10.00 US$ for shipping, the product will arrive in 7 days (ficticious example), but if I pat 15.00 US$ how
+long will take this shippingW
+
+The historical basis is represent in CSV file (500 rows) and these dataset is used to create the Linear Regression Model.
+
+The code presents comments in portuguese language
